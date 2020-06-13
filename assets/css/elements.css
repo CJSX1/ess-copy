@@ -1,0 +1,67 @@
+.m-0{
+    margin: 0rem;
+}
+
+.mb-1{
+    margin-bottom: 1%;
+}
+.mb-2{
+    margin-bottom: 2%;
+}
+
+.hcolor{
+    color: #953d75 !important;
+}
+
+.elem-content{
+    width: 100rem !important;
+}
+
+.bg-url{
+    background-image: url("http://iitb.ac.in/deanpl/covid/farmchain/farmchain.jpeg");
+}
+
+.imgRes{
+    margin-left: 25%;
+    /* margin-top: 5%;
+    margin-bottom: 5%; */
+    width: 50%;
+    height: auto;
+    border: 2px solid lightcoral;
+}
+
+.img-href {
+    border-bottom: none !important;
+}
+
+.bold-color {
+    color: #953D75;
+}
+.bold-theme-color {
+    color: black;
+}
+
+.white-text {
+    color: #ffffff;
+}
+.center-text {
+    text-align: center !important;
+}
+
+.brand-logo {
+    float: left;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+.chhadva-app-img {
+    height: -webkit-fill-available;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid lightcoral;
+    object-fit: contain;
+}
+
+.remv-disc {
+    list-style: none !important;
+}
